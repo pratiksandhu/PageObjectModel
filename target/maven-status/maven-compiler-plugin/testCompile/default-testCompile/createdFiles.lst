@@ -1,0 +1,5 @@
+testcases\ForgotPasswordPageTest.class
+testcases\LoginPageTest.class
+testcases\AfterSignInPageTest.class
+testcases\ContactsPageTest.class
+testcases\HomePageTest.class

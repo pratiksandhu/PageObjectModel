@@ -1,0 +1,11 @@
+base\BaseClass.class
+pages\LoginPage.class
+extentReportListener\ExtentReportListener.class
+pages\ContactsPage.class
+pages\HomePage.class
+pages\SignUpPage.class
+utilities\Util.class
+utilities\WebEventListener.class
+pages\DealsPage.class
+pages\ForgotPasswordPage.class
+pages\AfterSignInPage.class

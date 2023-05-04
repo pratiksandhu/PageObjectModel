@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79427" started-at="2023-05-02T18:28:47 EDT" finished-at="2023-05-02T18:30:07 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="79427" started-at="2023-05-02T18:28:47 EDT" finished-at="2023-05-02T18:30:07 EDT">
+      <class name="testcases.HomePageTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.HomePageTest@4e7dc304]" name="beforeMethod" is-config="true" duration-ms="11944" started-at="2023-05-02T18:28:47 EDT" finished-at="2023-05-02T18:28:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signUpPage()[pri:1, instance:testcases.HomePageTest@4e7dc304]" name="signUpPage" duration-ms="4533" started-at="2023-05-02T18:28:59 EDT" finished-at="2023-05-02T18:29:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpPage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.HomePageTest@4e7dc304]" name="afterMethod" is-config="true" duration-ms="4841" started-at="2023-05-02T18:29:04 EDT" finished-at="2023-05-02T18:29:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.HomePageTest@4e7dc304]" name="beforeMethod" is-config="true" duration-ms="9571" started-at="2023-05-02T18:29:09 EDT" finished-at="2023-05-02T18:29:18 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="openCRMInsurance()[pri:2, instance:testcases.HomePageTest@4e7dc304]" name="openCRMInsurance" duration-ms="1567" started-at="2023-05-02T18:29:18 EDT" finished-at="2023-05-02T18:29:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openCRMInsurance -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.HomePageTest@4e7dc304]" name="afterMethod" is-config="true" duration-ms="1904" started-at="2023-05-02T18:29:20 EDT" finished-at="2023-05-02T18:29:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.HomePageTest@4e7dc304]" name="beforeMethod" is-config="true" duration-ms="9072" started-at="2023-05-02T18:29:22 EDT" finished-at="2023-05-02T18:29:31 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="openLoginPage()[pri:3, instance:testcases.HomePageTest@4e7dc304]" name="openLoginPage" duration-ms="2950" started-at="2023-05-02T18:29:31 EDT" finished-at="2023-05-02T18:29:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginPage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.HomePageTest@4e7dc304]" name="afterMethod" is-config="true" duration-ms="1795" started-at="2023-05-02T18:29:34 EDT" finished-at="2023-05-02T18:29:36 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcases.HomePageTest -->
+      <class name="testcases.LoginPageTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.LoginPageTest@64729b1e]" name="beforeMethod" is-config="true" duration-ms="12317" started-at="2023-05-02T18:29:36 EDT" finished-at="2023-05-02T18:29:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signIn()[pri:1, instance:testcases.LoginPageTest@64729b1e]" name="signIn" duration-ms="588" started-at="2023-05-02T18:29:48 EDT" finished-at="2023-05-02T18:29:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.LoginPageTest@64729b1e]" name="afterMethod" is-config="true" duration-ms="2539" started-at="2023-05-02T18:29:49 EDT" finished-at="2023-05-02T18:29:51 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.LoginPageTest@64729b1e]" name="beforeMethod" is-config="true" duration-ms="12762" started-at="2023-05-02T18:29:51 EDT" finished-at="2023-05-02T18:30:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="forgotPassword()[pri:2, instance:testcases.LoginPageTest@64729b1e]" name="forgotPassword" duration-ms="1076" started-at="2023-05-02T18:30:04 EDT" finished-at="2023-05-02T18:30:05 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.LoginPageTest@64729b1e]" name="afterMethod" is-config="true" duration-ms="1898" started-at="2023-05-02T18:30:05 EDT" finished-at="2023-05-02T18:30:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
