@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="classes" thread-count="2">
+<listeners>
+<listener class-name="extentReportListener.ExtentReportListener"></listener>
+</listeners>
+  <test name="Test">
+    <classes>
+     <!--<class name="testcases.HomePageTest"/>-->
+    <class name="testcases.LoginPageTest"/> 
+     <!-- <class name="testcases.ForgotPasswordPageTest"/>
+     <class name="testcases.AfterSignInPageTest"/>
+     <class name="testcases.ContactsPageTest"/>
+      -->
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

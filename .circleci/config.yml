@@ -1,0 +1,11 @@
+jobs:
+  build:
+    steps:
+      - checkout
+      - run:
+          name: "Install Maven"
+          command: brew install maven
+      - run:
+          name: "Install Dependencies and Build"
+          command: mvn clean install
+
